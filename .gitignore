@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/public/storage
+/storage
+/nbproject
+Homestead.yaml
+Homestead.json
+.env
+composer.phar
+.DS_Store
