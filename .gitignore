@@ -9,3 +9,4 @@ Homestead.json
 .env
 composer.phar
 .DS_Store
+!storage/.gitkeep
